@@ -14,6 +14,7 @@
   <img align="center" alt="Igor-Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
   <img align="center" alt="Igor-Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
   <img align="center" alt="Igor-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Igor-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
 ##
