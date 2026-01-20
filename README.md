@@ -1,6 +1,4 @@
-### Olá, eu sou o Igor Trentini :D
-
-- 💻 Trabalho como Desenvolvedor Full Stack
+### Hi, I'm Igor Trentini
 
 <div align="center">
   <a href="https://github.com/o-igor-trentini">
@@ -14,12 +12,4 @@
   <img align="center" alt="Igor-Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
   <img align="center" alt="Igor-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Igor-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-</div>
-
-##
-
-<div> 
-  <a href="https://www.instagram.com/ct.igor/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:igortrentini.2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-trentini-4b1038218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
